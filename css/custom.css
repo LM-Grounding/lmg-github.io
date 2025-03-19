@@ -121,7 +121,7 @@ font-weight: lighter;
 }
 
 body {
-background: #502929;
+background: rgba(33, 37, 41, 0.75);
 }
 
 #main {
@@ -194,7 +194,7 @@ display: table;
 }
 
 .hero {
-background-color: #502929;
+background-color: rgba(33, 37, 41, 0.75);
 color: #fff;
 line-height: 44px;
 text-align: center;
